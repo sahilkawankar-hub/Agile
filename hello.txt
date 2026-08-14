@@ -1,2 +1,2 @@
-Hello All
+Welcome to Terna Engineering College
 Login Feature Added

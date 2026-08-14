@@ -1,2 +1,2 @@
-Hello All
+Welcome AI Students to Terna Engineering College
 Login Feature Added
